@@ -17,6 +17,7 @@ To navigate the page, you may click on the links in the navigation bar
 Alternatively you may scroll through the page manually to see the rest of the site's content
 ```md
 ! [PageContent](assets/images/PageContentDemo.PNG)
+```
 
 ## Credits
 
