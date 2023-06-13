@@ -92,6 +92,7 @@ p {
     background-color: #2589bd;
 }
 
+/*Consolidated classes benefit-lead, benefit-brand, and benefit-cost*/
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -108,7 +109,7 @@ p {
     max-width: 150px;
 }
 
-/*Styling for main sections*/
+/*Styling for main sections. Consolidated classes search-engine-optimization, online-reputation-management, and social-media-marketing*/
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;

@@ -11,13 +11,11 @@ You can access the Horiseon site by clicking the following link [https://thereal
 ## Usage
 
 To navigate the page, you may click on the links in the navigation bar
-```md
-    ![Nav Bar Demo](assets/images/NavBarDemo.PNG)
-```
+    <img src="/assets/images/NavBarDemo.PNG">
+
 Alternatively you may scroll through the page manually to see the rest of the site's content
-```md
-    ![Page Content Demo](assets/images/PageContentDemo.PNG)
-```
+    <img src="/assets/images/PageContentDemo.PNG">
+    
 
 ## Credits
 
